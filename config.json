@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "তোমার নানি লাগি 💫🪽",
+  "nickNameBot": "Dutu",
   "prefix": "/",
   "enableTypingIndicator": true,
   "typingDuration": 1500,
@@ -30,8 +30,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61594340600100",
-    "100065350440147",
+    "61592778947207",
+    "61592853883908",
     " "
   ],
   "adminGroupOnly": {
